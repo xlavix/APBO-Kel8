@@ -54,7 +54,7 @@ Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi d
 
 ## ERD (Entity Relationship Diagram)
 
-![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/ERD%20APBO.png)
+![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/erd-apbo.jpg)
 
 ## Class Diagram
 
