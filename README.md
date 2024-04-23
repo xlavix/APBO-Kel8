@@ -2,20 +2,11 @@
 
 ![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/banner.png)
 
-Peningkatan minat dalam olahraga badminton
-mendorong permintaan lapangan yang mudah
-diakses, namun reservasi tradisional tidak
-efisien. Dengan teknologi Analisis dan
-Perancangan Berorientasi Objek, sistem
-reservasi lapangan badminton dapat
-dioptimalkan, memungkinkan reservasi digital
-dan manajemen inventaris yang lebih efisien.
-
-**Table of Contents**
+Peningkatan minat dalam olahraga badminton mendorong permintaan lapangan yang mudah diakses oleh pelanggan, namun reservasi dengan cara tradisional sering kali dilanda masalah. Dengan teknologi Analisis dan Perancangan Berorientasi Objek, sistem reservasi lapangan badminton dapat menjadi solusi, memungkinkan reservasi digital dan manajemen inventaris yang lebih memudahkan bagi pelanggan dan owner usaha.
 
 ## Cerita bisnis
 
-cara untuk pemesanan gor badminton, menghubungi contack person di gor tersebut langkah 1 pemilihan lapangan dan waktu/jam yang kosong langkash ke 2 melakukan booking lapangan yang tersedia langkah ke 3 pembayaran lapangan, bisa DP terlebih dahulu atau langsung melunasi langkah ke 4 konfirmasi dan menggunakan lapangan langkah ke 5 pengembalian fasilitas
+Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi di Condet, Jakarta Timur. Pelanggan bisa memesan secara langsung atau memesan secara online via Whatsapp atau via Instagram, serta pelanggan bisa mengecek ketersediaan jadwal jam penyewaan lapangan. Pelanggan harus membayar DP 50% untuk menyewa lapangan, lalu data sewa pelanggan dicatat di buku penjaga lapangan. Pelanggan bisa bermain di lapangan yang kosong atau belum ada yang bermain, dan pelanggan harus membayar lunas biaya sewa lapangan saat selesai bermain.
 
 ## Kendala yang sering terjadi
 
