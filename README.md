@@ -1,6 +1,6 @@
 # Jasa Reservasi Lapangan Badminton - Kelompok 8
 
-![alt text](judul-1.png)
+![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/banner.png)
 
 Peningkatan minat dalam olahraga badminton
 mendorong permintaan lapangan yang mudah
