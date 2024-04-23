@@ -55,4 +55,6 @@ Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi d
 
 ## Class Diagram
 
+![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/class-diagram.jpg)
+
 ## Wireframes
