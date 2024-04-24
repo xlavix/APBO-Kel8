@@ -56,8 +56,30 @@ Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi d
 
 ![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/erd-apbo.jpg)
 
+
 ## Class Diagram
 
 ![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/class-diagram.jpg)
 
-## Wireframes
+## Wireframes & Design
+
+#Home Customers
+![Home Customers](https://github.com/xlavix/APBO-Kel8/assets/88574532/8ae83915-5579-46ac-a40c-cc5183cca3d1)
+
+#Sewa lapangan
+![Sewa lapangan](https://github.com/xlavix/APBO-Kel8/assets/88574532/26019664-fbda-422b-a1f8-39aea85123c5)
+
+#Payment Gateway
+![Payment Gateway](https://github.com/xlavix/APBO-Kel8/assets/88574532/04b23eff-115b-4e39-bfbf-82ecc7fdd0a4)
+
+#Pembayaran
+![Pembayaran Customers](https://github.com/xlavix/APBO-Kel8/assets/88574532/61aa2f9f-1371-43a6-a866-13da4c953d6a)
+
+#Book Jadwal
+![Book Jadwal](https://github.com/xlavix/APBO-Kel8/assets/88574532/197b472a-ff1a-4a24-9650-e88d5bd3a7f7)
+
+#Alert Pemesanan
+![Notification Pembayaran](https://github.com/xlavix/APBO-Kel8/assets/88574532/a990b726-ccc8-4a9a-8605-c43109352979)
+
+
+Link Akses View https://www.figma.com/file/3iAo5OxRgeBdPIUvH15exo/APBO-LAPANGAN?type=design&node-id=3-1478&mode=design&t=EQtVWw82Ejy0NRpM-0
