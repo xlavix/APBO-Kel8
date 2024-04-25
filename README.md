@@ -4,6 +4,13 @@
 
 Peningkatan minat dalam olahraga badminton mendorong permintaan lapangan yang mudah diakses oleh pelanggan, namun reservasi dengan cara tradisional sering kali dilanda masalah. Dengan teknologi Analisis dan Perancangan Berorientasi Objek, sistem reservasi lapangan badminton dapat menjadi solusi, memungkinkan reservasi digital dan manajemen inventaris yang lebih memudahkan bagi pelanggan dan owner usaha.
 
+Nama Kelompok:
+- Jimly Asidiq Anwar      (4522210018)
+- Dzaki Yushibanaa        (4522210041)
+- Michael Danu Ekklasiya  (4522210056)
+- Muhamad Farhan          (4522210057)
+- Rizky Galih Dwiyanto    (4522210074)
+
 ## Cerita bisnis
 
 Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi di Condet, Jakarta Timur. Pelanggan bisa memesan secara langsung atau memesan secara online via Whatsapp atau via Instagram, serta pelanggan bisa mengecek ketersediaan jadwal jam penyewaan lapangan. Pelanggan harus membayar DP 50% untuk menyewa lapangan, lalu data sewa pelanggan dicatat di buku penjaga lapangan. Pelanggan bisa bermain di lapangan yang kosong atau belum ada yang bermain, dan pelanggan harus membayar lunas biaya sewa lapangan saat selesai bermain.
@@ -49,37 +56,38 @@ Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi d
 
 ## Data mentah
 
+### Nota sewa
 ![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/nota.jpg)
+
+### Buku pencatatan
 ![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/bukudata.jpg)
 
 ## ERD (Entity Relationship Diagram)
 
 ![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/erd-apbo.jpg)
 
-
 ## Class Diagram
 
 ![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/class-diagram.jpg)
 
-## Wireframes & Design
+## Wireframes
 
-#Home Customers
+### Home Customers
 ![Home Customers](https://github.com/xlavix/APBO-Kel8/assets/88574532/8ae83915-5579-46ac-a40c-cc5183cca3d1)
 
-#Sewa lapangan
+### Sewa lapangan
 ![Sewa lapangan](https://github.com/xlavix/APBO-Kel8/assets/88574532/26019664-fbda-422b-a1f8-39aea85123c5)
 
-#Payment Gateway
+### Payment Gateway
 ![Payment Gateway](https://github.com/xlavix/APBO-Kel8/assets/88574532/04b23eff-115b-4e39-bfbf-82ecc7fdd0a4)
 
-#Pembayaran
+### Pembayaran
 ![Pembayaran Customers](https://github.com/xlavix/APBO-Kel8/assets/88574532/61aa2f9f-1371-43a6-a866-13da4c953d6a)
 
-#Book Jadwal
+### Book Jadwal
 ![Book Jadwal](https://github.com/xlavix/APBO-Kel8/assets/88574532/197b472a-ff1a-4a24-9650-e88d5bd3a7f7)
 
-#Alert Pemesanan
+### Alert Pemesanan
 ![Notification Pembayaran](https://github.com/xlavix/APBO-Kel8/assets/88574532/a990b726-ccc8-4a9a-8605-c43109352979)
 
-
-Link Akses View https://www.figma.com/file/3iAo5OxRgeBdPIUvH15exo/APBO-LAPANGAN?type=design&node-id=3-1478&mode=design&t=EQtVWw82Ejy0NRpM-0
+> Link Figma [link](https://www.figma.com/file/3iAo5OxRgeBdPIUvH15exo/APBO-LAPANGAN?type=design&node-id=3-1478&mode=design&t=EQtVWw82Ejy0NRpM-0)
