@@ -91,3 +91,16 @@ Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi d
 ![Notification Pembayaran](https://github.com/xlavix/APBO-Kel8/assets/88574532/a990b726-ccc8-4a9a-8605-c43109352979)
 
 > Link Figma [link](https://www.figma.com/file/3iAo5OxRgeBdPIUvH15exo/APBO-LAPANGAN?type=design&node-id=3-1478&mode=design&t=EQtVWw82Ejy0NRpM-0)
+
+### Sequence Diagram
+# Reservasi Lapangan oleh Pelanggan
+![Reservasi Lapangan oleh Pelanggan](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/c2fc2a11-4848-4ea5-b526-421a38bfebca)
+
+# Manajer Menambahkan atau Menghapus Reservasi
+![Manajer Menambahkan atau Menghapus Reservasi](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/676556bc-97bf-4076-9e39-f799a1a74e07)
+
+# Petugas Mengelola Jadwal
+![etugas Mengelola Jadwal](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/ae932d72-e358-4f25-b73a-b67ef14e5714)
+
+# Notifikasi dan Validasi
+![Notifikasi dan Validasi](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/0cbc7375-4a81-4d16-ab93-fcb8b11a3adf)
