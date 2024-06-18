@@ -7,6 +7,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/xlavix/APBO-Kel8?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/xlavix/APBO-Kel8?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/branches-6-branches?style=flat-square&color=blue)
+[![Static Badge](https://img.shields.io/badge/youtube-youtube?style=flat-square&logo=youtube&color=red)](https://www.youtube.com/watch?v=vj7nRq7QuTM)
+[![Static Badge](https://img.shields.io/badge/figma-figma?style=flat-square&logo=figma&color=white)](https://www.figma.com/file/3iAo5OxRgeBdPIUvH15exo/APBO-LAPANGAN?type=design&node-id=3-1478&mode=design&t=EQtVWw82Ejy0NRpM-0)
 
 Peningkatan minat dalam olahraga badminton mendorong permintaan lapangan yang mudah diakses oleh pelanggan, namun reservasi dengan cara tradisional sering kali dilanda masalah. Dengan teknologi Analisis dan Perancangan Berorientasi Objek, sistem reservasi lapangan badminton dapat menjadi solusi, memungkinkan reservasi digital dan manajemen inventaris yang lebih memudahkan bagi pelanggan dan owner usaha.
 
@@ -16,8 +18,6 @@ Nama Kelompok:
 - Michael Danu Ekklasiya  (4522210056)
 - Muhamad Farhan          (4522210057)
 - Rizky Galih Dwiyanto    (4522210074)
-
-> Link Youtube: [Link](https://www.youtube.com/watch?v=vj7nRq7QuTM)
 
 ## Cerita bisnis
 
@@ -101,8 +101,6 @@ Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi d
 
 ### Alert Pemesanan
 ![Notification Pembayaran](https://github.com/xlavix/APBO-Kel8/assets/88574532/a990b726-ccc8-4a9a-8605-c43109352979)
-
-> Link Figma [link](https://www.figma.com/file/3iAo5OxRgeBdPIUvH15exo/APBO-LAPANGAN?type=design&node-id=3-1478&mode=design&t=EQtVWw82Ejy0NRpM-0)
 
 ## Sequence Diagram
 
