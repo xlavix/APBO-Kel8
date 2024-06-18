@@ -119,3 +119,24 @@ Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi d
 ## Activity Diagram
 
 ![Activity Diagram](https://github.com/rizbene/APBO-Kel8/blob/main/image/activity%20diagram.jpg)
+
+## Design UI
+![Login UI](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/1cf2f2f1-d883-4089-b5d1-7d3eaf967b4e)
+![List UI](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/355880cf-d36d-426f-9a1b-21eb6f91ee23)
+![Admin](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/62bd2163-e784-44df-8f01-410d0bc4eac0)
+![Sewa lapangan](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/bc3331a8-17ed-4682-be4f-487dbd6547c1)
+![Receipt Card](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/0ef6f602-6335-4198-88d9-55f49cf4b9a7)![mock3](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/1dccc73a-f37b-415a-8394-049e3cde25db)
+![Home](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/ce152df1-e9eb-4191-b946-24bf3f15242f)
+![Cek Jadwal](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/b51d84b8-80c1-4e77-8ae1-8d639ab98d7d)
+![Pembayaran](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/c9059a0c-ee11-4fb2-be9f-28e74cb210a8)
+
+## Mockup
+![mock1](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/bc15a3d3-3c96-4c1a-96ba-b62a4080fced)
+![mock2](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/2f27d4e5-bcc0-47f2-8ad3-35854d294e8b)
+![MacBook Air (2022)](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/cc18f7a1-f961-4c24-901f-dd7a46c961ee)
+![Mac Studio9](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/19d73ce7-5be8-46e3-957d-07d94a26464a)
+![Mac Studio5](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/7ec8a492-f7b0-4805-9c9e-1d93fefd7a6b)
+![Mac Studio3](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/7504b449-c803-410b-9a1d-1b36c8bb925f)
+![Mac Studio2](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/20031ca6-7eb1-46d9-9a53-e27021e5cc01)
+![Mac Studio](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/f87bda2a-0a69-4f99-b529-260ec57e3739)
+![iPad Pro 2020](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/a8b10562-5ae4-46ab-bd12-3a99412bb5ff)
