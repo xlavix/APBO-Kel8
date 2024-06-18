@@ -11,6 +11,8 @@ Nama Kelompok:
 - Muhamad Farhan          (4522210057)
 - Rizky Galih Dwiyanto    (4522210074)
 
+> Link Youtube: [Link](https://www.youtube.com/watch?v=vj7nRq7QuTM)
+
 ## Cerita bisnis
 
 Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi di Condet, Jakarta Timur. Pelanggan bisa memesan secara langsung atau memesan secara online via Whatsapp atau via Instagram, serta pelanggan bisa mengecek ketersediaan jadwal jam penyewaan lapangan. Pelanggan harus membayar DP 50% untuk menyewa lapangan, lalu data sewa pelanggan dicatat di buku penjaga lapangan. Pelanggan bisa bermain di lapangan yang kosong atau belum ada yang bermain, dan pelanggan harus membayar lunas biaya sewa lapangan saat selesai bermain.
@@ -96,15 +98,20 @@ Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi d
 
 > Link Figma [link](https://www.figma.com/file/3iAo5OxRgeBdPIUvH15exo/APBO-LAPANGAN?type=design&node-id=3-1478&mode=design&t=EQtVWw82Ejy0NRpM-0)
 
-### Sequence Diagram
-# Reservasi Lapangan oleh Pelanggan
+## Sequence Diagram
+
+### Reservasi Lapangan oleh Pelanggan
 ![Reservasi Lapangan oleh Pelanggan](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/c2fc2a11-4848-4ea5-b526-421a38bfebca)
 
-# Manajer Menambahkan atau Menghapus Reservasi
+### Manajer Menambahkan atau Menghapus Reservasi
 ![Manajer Menambahkan atau Menghapus Reservasi](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/676556bc-97bf-4076-9e39-f799a1a74e07)
 
-# Petugas Mengelola Jadwal
+### Petugas Mengelola Jadwal
 ![etugas Mengelola Jadwal](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/ae932d72-e358-4f25-b73a-b67ef14e5714)
 
-# Notifikasi dan Validasi
+### Notifikasi dan Validasi
 ![Notifikasi dan Validasi](https://github.com/michaeldanuekklasiya-web/APBO-Kel8/assets/88574532/0cbc7375-4a81-4d16-ab93-fcb8b11a3adf)
+
+## Activity Diagram
+
+![Activity Diagram](https://github.com/rizbene/APBO-Kel8/blob/main/image/activity%20diagram.jpg)
