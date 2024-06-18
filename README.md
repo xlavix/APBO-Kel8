@@ -2,6 +2,10 @@
 
 ![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/banner.png)
 
+![GitHub forks](https://img.shields.io/github/forks/xlavix/APBO-Kel8?style=flat)
+![Github commit](https://img.shields.io/github/commit-activity/t/xlavix/APBO-Kel8)
+![GitHub last commit](https://img.shields.io/github/last-commit/xlavix/APBO-Kel8?style=flat)
+
 Peningkatan minat dalam olahraga badminton mendorong permintaan lapangan yang mudah diakses oleh pelanggan, namun reservasi dengan cara tradisional sering kali dilanda masalah. Dengan teknologi Analisis dan Perancangan Berorientasi Objek, sistem reservasi lapangan badminton dapat menjadi solusi, memungkinkan reservasi digital dan manajemen inventaris yang lebih memudahkan bagi pelanggan dan owner usaha.
 
 Nama Kelompok:
