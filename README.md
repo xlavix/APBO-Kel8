@@ -2,11 +2,11 @@
 
 ![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/banner.png)
 
-![Static Badge](https://img.shields.io/badge/contributors-5-contributors?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/xlavix/APBO-Kel8?style=flat-square&color=LawnGreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/xlavix/APBO-Kel8?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/xlavix/APBO-Kel8?style=flat-square)
-![Static Badge](https://img.shields.io/badge/branches-6-branches?style=flat-square&color=blue)
+![Static Badge](https://img.shields.io/badge/contributors-5-contributors?style=flat-square&logo=github)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/xlavix/APBO-Kel8?style=flat-square&color=LawnGreen&logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/xlavix/APBO-Kel8?style=flat-square&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/xlavix/APBO-Kel8?style=flat-square&logo=github)
+![Static Badge](https://img.shields.io/badge/branches-6-branches?style=flat-square&color=blue&logo=github)
 [![Static Badge](https://img.shields.io/badge/youtube-youtube?style=flat-square&logo=youtube&color=red)](https://www.youtube.com/watch?v=vj7nRq7QuTM)
 [![Static Badge](https://img.shields.io/badge/figma-figma?style=flat-square&logo=figma&color=white)](https://www.figma.com/file/3iAo5OxRgeBdPIUvH15exo/APBO-LAPANGAN?type=design&node-id=3-1478&mode=design&t=EQtVWw82Ejy0NRpM-0)
 
