@@ -52,7 +52,11 @@ Zeta Sport Center merupakan tempat penyewaan lapangan badminton yang berlokasi d
 
 ## Use case dari masing-masing aktor
 
-![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/usecase.png)
+![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/usecase%20diagram.png)
+
+## Flowchart
+
+![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/flowchart.png)
 
 ## Data mentah
 
