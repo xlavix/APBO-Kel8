@@ -2,9 +2,11 @@
 
 ![alt text](https://github.com/xlavix/APBO-Kel8/blob/main/image/banner.png)
 
-![GitHub forks](https://img.shields.io/github/forks/xlavix/APBO-Kel8?style=flat)
-![Github commit](https://img.shields.io/github/commit-activity/t/xlavix/APBO-Kel8)
-![GitHub last commit](https://img.shields.io/github/last-commit/xlavix/APBO-Kel8?style=flat)
+![Static Badge](https://img.shields.io/badge/contributors-5-contributors?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/xlavix/APBO-Kel8?style=flat-square&color=LawnGreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/xlavix/APBO-Kel8?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/xlavix/APBO-Kel8?style=flat-square)
+![Static Badge](https://img.shields.io/badge/branches-6-branches?style=flat-square&color=blue)
 
 Peningkatan minat dalam olahraga badminton mendorong permintaan lapangan yang mudah diakses oleh pelanggan, namun reservasi dengan cara tradisional sering kali dilanda masalah. Dengan teknologi Analisis dan Perancangan Berorientasi Objek, sistem reservasi lapangan badminton dapat menjadi solusi, memungkinkan reservasi digital dan manajemen inventaris yang lebih memudahkan bagi pelanggan dan owner usaha.
 
